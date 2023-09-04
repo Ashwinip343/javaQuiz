@@ -1,1 +1,7 @@
+#### D1. Hai un'applicazione che utilizza un database MySQL da 100 GB di cui stai eseguendo la migrazione in AWS. Cosa dovresti considerare quando decidi se ospitare il database su RDS per MySQL o Aurora?
+
+- [ ] costo
+- [ ] facilità di manutenzione vs. granularità del controllo
+- [x] tutte queste risposte
+- [ ] l'attuale motore di archiviazione utilizzato dall'applicazione, ad esempio InnoDB o MyISAM
 
